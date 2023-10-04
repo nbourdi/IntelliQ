@@ -25,7 +25,7 @@ The use cases "Answer Questionnaire" and "View Questionnaire Response Data with 
   ```sh
   node installer.js
   ```
-5. Build the front-end using the insturctions given in the respective folder.
+5. Build the front-end using the instructions given in the respective folder.
 
 #### Group: SoftEng22-13
 
